@@ -166,7 +166,7 @@ G.K Silver Stone Sr. Sec. School
 
 ## 📊 GitHub Analytics
 
-<p align="center">
+<!-- <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=bhagya0007&show_icons=true&theme=radical&hide_border=true&bg_color=1A1A2E&title_color=F7971E&icon_color=FFD200&text_color=eeeeee"/>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhagya0007&layout=compact&theme=radical&hide_border=true&bg_color=1A1A2E&title_color=F7971E&text_color=eeeeee"/>
 </p>
@@ -177,7 +177,7 @@ G.K Silver Stone Sr. Sec. School
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhagya0007&theme=react-dark&hide_border=true&bg_color=1A1A2E&color=FFD200&line=F7971E&point=ffffff"/>
-</p>
+</p> -->
 
 ---
 
