@@ -27,8 +27,8 @@
 ● ● ●                              bhagya@github ~ terminal
 ──────────────────────────────────────────────────────────────
 
-> whoami
-Bhagya Varshney — AI · ML · Data Science Engineer
+> who am i
+Bhagya Varshney — AI · ML ·  Full Stack Developer
 📍 Uttar Pradesh, India · ABES Engineering College · 2028
 
 > cat interests.txt
@@ -41,10 +41,9 @@ Bhagya Varshney — AI · ML · Data Science Engineer
 Python      ████████████████████░░  Advanced
 C++         ████████████████░░░░░░  Proficient
 SQL         ████████████████░░░░░░  Proficient
-JavaScript  ██████████████░░░░░░░░  Intermediate
 
 > status
-✦ Open to Data Science & Machine Learning opportunities
+✦ Open to Data Science & Machine Learning & Web development opportunities
 ```
 
 <table width="100%">
@@ -87,9 +86,9 @@ G.K Silver Stone Sr. Sec. School
 
 ## 🛠️ Tech Stack
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,react,fastapi,mongodb,mysql,git,github,vscode,gcp,figma&theme=dark&perline=8" />
-</p>
+</p> -->
 
 <div align="center">
 
