@@ -1,80 +1,100 @@
 
-<!-- ===================================================== -->
-<!-- BHAGYA VARSHNEY | PROFESSIONAL GITHUB PROFILE          -->
-<!-- GRAPHITE / STEEL / SILVER                              -->
-<!-- ===================================================== -->
+<!-- ========================================================= -->
+<!-- BHAGYA VARSHNEY | PREMIUM GITHUB PROFILE                  -->
+<!-- GRAPHITE / SLATE / SILVER                                  -->
+<!-- ========================================================= -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:111820,100:293B4B&text=Bhagya%20Varshney&fontSize=48&fontColor=E7EDF2&fontAlignY=38&desc=Artificial%20Intelligence%20%7C%20Machine%20Learning%20%7C%20Software%20Engineering&descSize=14&descAlignY=60&animation=fadeIn"/>
+<!-- ANIMATED HERO BANNER -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:101820,50:1C2935,100:34495A&height=230&section=header&text=Bhagya%20Varshney&fontSize=54&fontColor=F1F5F9&fontAlignY=38&desc=AI%20%7C%20MACHINE%20LEARNING%20%7C%20SOFTWARE%20ENGINEERING&descSize=15&descColor=B8C7D6&descAlignY=58&animation=fadeIn"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=400&size=16&duration=3500&pause=1200&color=9FB3C8&center=true&vCenter=true&width=720&lines=Computer+Science+Undergraduate;Developing+AI-Powered+Applications;Exploring+Machine+Learning+%26+Data+Science;Building+Practical+Software+Solutions" />
+<!-- ANIMATED INTRODUCTION -->
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=400&size=17&duration=3500&pause=1100&color=A8BDCF&center=true&vCenter=true&width=750&height=35&lines=Computer+Science+Undergraduate;Building+AI-Powered+Applications;Exploring+Machine+Learning+%26+Data+Science;Engineering+Ideas+Into+Reality" alt="Typing Animation"/>
 
 <br/><br/>
+
+<!-- SOCIAL LINKS -->
 
 <a href="https://www.bhagyavarshney.in/">
-<img src="https://img.shields.io/badge/PORTFOLIO-202B36?style=flat-square&logo=vercel&logoColor=C5D0DA"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-263440?style=for-the-badge&logo=vercel&logoColor=E1E8EF"/>
 </a>
 <a href="https://www.linkedin.com/in/bhagya-varshney-1a513833b">
-<img src="https://img.shields.io/badge/LINKEDIN-202B36?style=flat-square&logo=linkedin&logoColor=C5D0DA"/>
+<img src="https://img.shields.io/badge/LINKEDIN-263440?style=for-the-badge&logo=linkedin&logoColor=E1E8EF"/>
 </a>
 <a href="mailto:bhagyavarshney07@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-202B36?style=flat-square&logo=gmail&logoColor=C5D0DA"/>
+<img src="https://img.shields.io/badge/EMAIL-263440?style=for-the-badge&logo=gmail&logoColor=E1E8EF"/>
 </a>
 <a href="https://github.com/bhagya0007">
-<img src="https://img.shields.io/badge/GITHUB-202B36?style=flat-square&logo=github&logoColor=C5D0DA"/>
+<img src="https://img.shields.io/badge/GITHUB-263440?style=for-the-badge&logo=github&logoColor=E1E8EF"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=bhagya0007&style=flat-square&color=536779&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=bhagya0007&label=PROFILE%20VISITORS&color=536779&style=flat-square"/>
+
+<br/><br/>
+
+<img width="70%" src="https://capsule-render.vercel.app/api?type=rect&color=536779&height=1&section=header"/>
 
 </div>
 
+<!-- ========================================================= -->
+<!-- 01. ABOUT ME                                               -->
+<!-- ========================================================= -->
+
+## 01 / ABOUT ME
+
+<div align="center">
+
+*"Building intelligent solutions through engineering, experimentation, and continuous learning."*
+
+</div>
+
+I'm **Bhagya Varshney**, a Computer Science undergraduate specializing in Artificial Intelligence and Machine Learning at ABES Engineering College.
+
+I'm interested in developing intelligent applications, exploring machine learning algorithms, and building practical software solutions that combine AI with modern software engineering.
+
+I enjoy working across the development lifecycle — from data preprocessing and model experimentation to backend development and application deployment.
+
+**Areas of Interest**
+
+- Artificial Intelligence & Machine Learning
+- Data Science & Predictive Analytics
+- Full-Stack Application Development
+- Cloud Computing & AI Infrastructure
+- Problem Solving & Data Structures
+
 ---
 
-## 01 / PROFILE
+## 02 / EDUCATION
 
-<table>
+<table width="100%">
 <tr>
 <td width="65%" valign="top">
 
-### Hello, I'm Bhagya.
+### B.Tech — Computer Science & Engineering (AI & ML)
 
-Computer Science undergraduate specializing in Artificial Intelligence and Machine Learning at ABES Engineering College.
-
-My interests lie in developing intelligent applications, understanding machine learning systems, and engineering software that solves practical problems.
-
-I enjoy working across the development lifecycle — from data preprocessing and model experimentation to backend development and deployment.
-
-**Currently focused on:**
-- Machine Learning and Data Science
-- AI-powered application development
-- Full-stack engineering
-- Cloud computing and scalable systems
-
-</td>
-<td width="35%" valign="top">
-
-### EDUCATION
-
-**B.Tech — CSE (AI & ML)**
-
-ABES Engineering College
+**ABES Engineering College**
 
 2024 – 2028
 
 CGPA: 8.1 / 10
 
----
+</td>
+<td width="35%" valign="top">
 
-**Senior Secondary — CBSE**
+### Senior Secondary — CBSE
 
-G.K. Silver Stone Sr. Sec. School
+**G.K. Silver Stone Sr. Sec. School**
 
-2024 · 83%
+2024
+
+Percentage: 83%
 
 </td>
 </tr>
@@ -82,7 +102,7 @@ G.K. Silver Stone Sr. Sec. School
 
 ---
 
-## 02 / TECHNICAL EXPERTISE
+## 03 / TECHNICAL EXPERTISE
 
 <div align="center">
 
@@ -90,49 +110,66 @@ G.K. Silver Stone Sr. Sec. School
 <tr>
 <td width="50%" valign="top">
 
-### 01. Programming
+### 01. PROGRAMMING LANGUAGES
 
-<img src="https://img.shields.io/badge/Python-202B36?style=flat-square&logo=python&logoColor=B8C7D6"/>
-<img src="https://img.shields.io/badge/C++-202B36?style=flat-square&logo=cplusplus&logoColor=B8C7D6"/>
-<img src="https://img.shields.io/badge/C-202B36?style=flat-square&logo=c&logoColor=B8C7D6"/>
-<img src="https://img.shields.io/badge/JavaScript-202B36?style=flat-square&logo=javascript&logoColor=B8C7D6"/>
-<img src="https://img.shields.io/badge/SQL-202B36?style=flat-square&logo=mysql&logoColor=B8C7D6"/>
+<img src="https://img.shields.io/badge/Python-202B36?style=flat-square&logo=python&logoColor=C5D0DA"/>
+<img src="https://img.shields.io/badge/C++-202B36?style=flat-square&logo=cplusplus&logoColor=C5D0DA"/>
+<img src="https://img.shields.io/badge/C-202B36?style=flat-square&logo=c&logoColor=C5D0DA"/>
+<img src="https://img.shields.io/badge/JavaScript-202B36?style=flat-square&logo=javascript&logoColor=C5D0DA"/>
+<img src="https://img.shields.io/badge/SQL-202B36?style=flat-square&logo=mysql&logoColor=C5D0DA"/>
 
 </td>
 <td width="50%" valign="top">
 
-### 02. AI & Data Science
+### 02. AI & DATA SCIENCE
 
-<img src="https://img.shields.io/badge/Scikit--learn-202B36?style=flat-square&logo=scikitlearn&logoColor=B8C7D6"/>
-<img src="https://img.shields.io/badge/TensorFlow-202B36?style=flat-square&logo=tensorflow&logoColor=B8C7D6"/>
-<img src="https://img.shields.io/badge/Pandas-202B36?style=flat-square&logo=pandas&logoColor=B8C7D6"/>
-<img src="https://img.shields.io/badge/NumPy-202B36?style=flat-square&logo=numpy&logoColor=B8C7D6"/>
+<img src="https://img.shields.io/badge/Scikit--learn-202B36?style=flat-square&logo=scikitlearn&logoColor=C5D0DA"/>
+<img src="https://img.shields.io/badge/TensorFlow-202B36?style=flat-square&logo=tensorflow&logoColor=C5D0DA"/>
+<img src="https://img.shields.io/badge/Pandas-202B36?style=flat-square&logo=pandas&logoColor=C5D0DA"/>
+<img src="https://img.shields.io/badge/NumPy-202B36?style=flat-square&logo=numpy&logoColor=C5D0DA"/>
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
-### 03. Web & Backend
+### 03. WEB DEVELOPMENT
 
-<img src="https://img.shields.io/badge/React-202B36?style=flat-square&logo=react&logoColor=B8C7D6"/>
-<img src="https://img.shields.io/badge/TypeScript-202B36?style=flat-square&logo=typescript&logoColor=B8C7D6"/>
-<img src="https://img.shields.io/badge/FastAPI-202B36?style=flat-square&logo=fastapi&logoColor=B8C7D6"/>
-<img src="https://img.shields.io/badge/HTML5-202B36?style=flat-square&logo=html5&logoColor=B8C7D6"/>
-<img src="https://img.shields.io/badge/CSS3-202B36?style=flat-square&logo=css3&logoColor=B8C7D6"/>
-<img src="https://img.shields.io/badge/Tailwind-202B36?style=flat-square&logo=tailwindcss&logoColor=B8C7D6"/>
+<img src="https://img.shields.io/badge/React-202B36?style=flat-square&logo=react&logoColor=C5D0DA"/>
+<img src="https://img.shields.io/badge/TypeScript-202B36?style=flat-square&logo=typescript&logoColor=C5D0DA"/>
+<img src="https://img.shields.io/badge/FastAPI-202B36?style=flat-square&logo=fastapi&logoColor=C5D0DA"/>
+<img src="https://img.shields.io/badge/HTML5-202B36?style=flat-square&logo=html5&logoColor=C5D0DA"/>
+<img src="https://img.shields.io/badge/CSS3-202B36?style=flat-square&logo=css3&logoColor=C5D0DA"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-202B36?style=flat-square&logo=tailwindcss&logoColor=C5D0DA"/>
 
 </td>
 <td width="50%" valign="top">
 
-### 04. Cloud & Infrastructure
+### 04. DATABASES & CLOUD
 
-<img src="https://img.shields.io/badge/Google%20Cloud-202B36?style=flat-square&logo=googlecloud&logoColor=B8C7D6"/>
-<img src="https://img.shields.io/badge/BigQuery-202B36?style=flat-square&logo=googlebigquery&logoColor=B8C7D6"/>
-<img src="https://img.shields.io/badge/Vertex%20AI-202B36?style=flat-square&logo=googlecloud&logoColor=B8C7D6"/>
-<img src="https://img.shields.io/badge/Docker-202B36?style=flat-square&logo=docker&logoColor=B8C7D6"/>
-<img src="https://img.shields.io/badge/Git-202B36?style=flat-square&logo=git&logoColor=B8C7D6"/>
-<img src="https://img.shields.io/badge/Firebase-202B36?style=flat-square&logo=firebase&logoColor=B8C7D6"/>
+<img src="https://img.shields.io/badge/Firebase-202B36?style=flat-square&logo=firebase&logoColor=C5D0DA"/>
+<img src="https://img.shields.io/badge/Firestore-202B36?style=flat-square&logo=firebase&logoColor=C5D0DA"/>
+<img src="https://img.shields.io/badge/MySQL-202B36?style=flat-square&logo=mysql&logoColor=C5D0DA"/>
+<img src="https://img.shields.io/badge/MongoDB-202B36?style=flat-square&logo=mongodb&logoColor=C5D0DA"/>
+<img src="https://img.shields.io/badge/Google_Cloud-202B36?style=flat-square&logo=googlecloud&logoColor=C5D0DA"/>
+<img src="https://img.shields.io/badge/BigQuery-202B36?style=flat-square&logo=googlebigquery&logoColor=C5D0DA"/>
+<img src="https://img.shields.io/badge/Vertex_AI-202B36?style=flat-square&logo=googlecloud&logoColor=C5D0DA"/>
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" valign="top">
+
+### 05. DEVELOPER TOOLS & INFRASTRUCTURE
+
+<img src="https://img.shields.io/badge/Git-202B36?style=flat-square&logo=git&logoColor=C5D0DA"/>
+<img src="https://img.shields.io/badge/GitHub-202B36?style=flat-square&logo=github&logoColor=C5D0DA"/>
+<img src="https://img.shields.io/badge/Docker-202B36?style=flat-square&logo=docker&logoColor=C5D0DA"/>
+<img src="https://img.shields.io/badge/Terraform-202B36?style=flat-square&logo=terraform&logoColor=C5D0DA"/>
+<img src="https://img.shields.io/badge/VS_Code-202B36?style=flat-square&logo=visualstudiocode&logoColor=C5D0DA"/>
+<img src="https://img.shields.io/badge/Power_BI-202B36?style=flat-square&logo=powerbi&logoColor=C5D0DA"/>
 
 </td>
 </tr>
@@ -142,7 +179,7 @@ G.K. Silver Stone Sr. Sec. School
 
 ---
 
-## 03 / SELECTED PROJECTS
+## 04 / FEATURED PROJECTS
 
 <table width="100%">
 <tr>
@@ -150,51 +187,65 @@ G.K. Silver Stone Sr. Sec. School
 
 ### 01 — EXPENSO
 
-**AI-Powered Personal Finance Platform**
+**AI-Powered Expense Tracker**
 
-A modern expense management application for tracking transactions, managing budgets, and understanding spending patterns.
+A personal finance application designed to simplify expense management, budgeting, and financial tracking.
+
+**Key Features**
 
 - Expense categorization and budget management
 - Interactive financial analytics
 - AI-powered financial insights
-- Authentication and cloud data management
+- Secure authentication
+- Cloud-based transaction management
 
-**STACK**
+**TECHNOLOGY STACK**
 
-`React` `TypeScript` `Firebase` `Firestore` `Tailwind CSS`
+<img src="https://img.shields.io/badge/React_19-202B36?style=flat-square&logo=react&logoColor=C5D0DA"/>
+<img src="https://img.shields.io/badge/TypeScript-202B36?style=flat-square&logo=typescript&logoColor=C5D0DA"/>
+<img src="https://img.shields.io/badge/Firebase-202B36?style=flat-square&logo=firebase&logoColor=C5D0DA"/>
+<img src="https://img.shields.io/badge/Firestore-202B36?style=flat-square&logo=firebase&logoColor=C5D0DA"/>
 
 <br/>
 
 <a href="https://expenso-expense-tracker-website.vercel.app/">
-<img src="https://img.shields.io/badge/VIEW%20LIVE%20PROJECT-34495A?style=flat-square&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW_LIVE_PROJECT-34495A?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </td>
+
 <td width="50%" valign="top">
 
 ### 02 — CIVICFIX
 
 **AI-Based Civic Complaint Management**
 
-An intelligent civic management concept designed to improve complaint classification, prioritization, and department routing.
+An AI-driven civic complaint management system focused on improving urban complaint classification, prioritization, and department routing.
+
+**Key Features**
 
 - NLP-based complaint classification
 - Image-based civic issue detection
-- Geospatial duplicate identification
-- Priority prediction and department routing
+- Geospatial duplicate complaint detection
+- Priority prediction
+- Automated department routing
 
-**STACK**
+**TECHNOLOGY AREAS**
 
-`Python` `NLP` `Machine Learning` `Computer Vision`
+<img src="https://img.shields.io/badge/Python-202B36?style=flat-square&logo=python&logoColor=C5D0DA"/>
+<img src="https://img.shields.io/badge/NLP-202B36?style=flat-square&logoColor=C5D0DA"/>
+<img src="https://img.shields.io/badge/Machine_Learning-202B36?style=flat-square&logo=scikitlearn&logoColor=C5D0DA"/>
+<img src="https://img.shields.io/badge/Computer_Vision-202B36?style=flat-square&logoColor=C5D0DA"/>
 
 <br/>
 
 <a href="https://github.com/2006-Arehan/CivicFix">
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-34495A?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-34495A?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
@@ -202,38 +253,49 @@ An intelligent civic management concept designed to improve complaint classifica
 
 **Collaborative Learning Platform**
 
-A student-focused platform that helps learners connect through common subjects and academic interests.
+A student-focused platform that connects learners through common subjects, academic interests, and learning preferences.
+
+**Key Features**
 
 - Subject-based student matching
-- Authentication and group management
+- User authentication
+- Group creation and management
 - Real-time communication
-- Learning resource sharing
+- Academic resource sharing
 
-**STACK**
+**TECHNOLOGY STACK**
 
-`React` `FastAPI` `Python` `MySQL`
+<img src="https://img.shields.io/badge/React-202B36?style=flat-square&logo=react&logoColor=C5D0DA"/>
+<img src="https://img.shields.io/badge/FastAPI-202B36?style=flat-square&logo=fastapi&logoColor=C5D0DA"/>
+<img src="https://img.shields.io/badge/Python-202B36?style=flat-square&logo=python&logoColor=C5D0DA"/>
+<img src="https://img.shields.io/badge/MySQL-202B36?style=flat-square&logo=mysql&logoColor=C5D0DA"/>
 
 </td>
+
 <td width="50%" valign="top">
 
 ### 04 — RAG TEACHING ASSISTANT
 
 **Retrieval-Augmented Learning System**
 
-An educational assistant exploring retrieval-based question answering from relevant knowledge sources.
+An educational assistant project exploring document-based information retrieval and context-aware question answering.
 
-- Document-based information retrieval
+**Key Features**
+
+- Retrieval-based information access
 - Context-aware question answering
-- Retrieval-Augmented Generation
+- Document-oriented learning assistance
 
-**STACK**
+**TECHNOLOGY AREAS**
 
-`Python` `RAG` `LLMs`
+<img src="https://img.shields.io/badge/Python-202B36?style=flat-square&logo=python&logoColor=C5D0DA"/>
+<img src="https://img.shields.io/badge/RAG-202B36?style=flat-square&logoColor=C5D0DA"/>
+<img src="https://img.shields.io/badge/LLMs-202B36?style=flat-square&logoColor=C5D0DA"/>
 
 <br/>
 
 <a href="https://github.com/bhagya0007/Rag-based-teaching-assistant">
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-34495A?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-34495A?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -242,20 +304,20 @@ An educational assistant exploring retrieval-based question answering from relev
 
 ---
 
-## 04 / PROFESSIONAL EXPERIENCE
+## 05 / PROFESSIONAL EXPERIENCE
 
 ### Machine Learning Intern — FlyRank AI
 
-`July 2026 – September 2026`
+<text>July 2026 – September 2026</text>
 
 - Worked on machine learning workflows and practical ML tasks.
 - Applied data preprocessing and feature engineering techniques.
-- Used Python, Pandas, NumPy and Scikit-learn.
+- Used Python, Pandas, NumPy, and Scikit-learn.
 - Explored model evaluation and performance analysis.
 
 ---
 
-## 05 / ACHIEVEMENTS
+## 06 / ACHIEVEMENTS & RECOGNITION
 
 <table width="100%">
 <tr>
@@ -274,14 +336,14 @@ An educational assistant exploring retrieval-based question answering from relev
 
 **Google Cloud Badges**
 
-<sub>Hands-on cloud learning</sub>
+<sub>Cloud learning and hands-on labs</sub>
 
 </td>
 <td align="center" width="25%">
 
 ### 2★
 
-**CodeChef**
+**CodeChef Rating**
 
 <sub>Competitive programming</sub>
 
@@ -290,7 +352,7 @@ An educational assistant exploring retrieval-based question answering from relev
 
 ### 02
 
-**Major Hackathons**
+**Hackathon Achievements**
 
 <sub>Cognitive Chaos & Retina AI</sub>
 
@@ -299,44 +361,65 @@ An educational assistant exploring retrieval-based question answering from relev
 </table>
 
 **Additional Recognition**
+
+- Cognitive Chaos 2026 — Second Position
+- Retina AI: Student Dropout Prediction — Second Position
 - HP-PowerLabs 2.0 — Appreciation
 
 ---
 
-## 06 / CERTIFICATIONS
+## 07 / CERTIFICATIONS & LEARNING
 
-- Google Cloud — 150+ Skill Badges
-- Google AI Essentials
-- Google Prompting Essentials
-- Anthropic AI Fluency Framework
-- McKinsey.org Forward Program
-- Deloitte Australia Cyber Job Simulation
+<div align="left">
 
----
-
-## 07 / GITHUB ACTIVITY
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=bhagya0007&show_icons=true&hide_border=true&bg_color=111820&title_color=C5D0DA&icon_color=91A9BC&text_color=B8C4CF&rank_icon=github"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=bhagya0007&hide_border=true&background=111820&ring=91A9BC&fire=C5D0DA&currStreakLabel=C5D0DA&sideLabels=B8C4CF&dates=8998A6"/>
-
-<br/><br/>
-
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=bhagya0007&bg_color=111820&color=B8C4CF&line=7890A5&point=E7EDF2&area=true&hide_border=true&custom_title=Contribution%20History"/>
+<img src="https://img.shields.io/badge/GOOGLE_CLOUD-263440?style=flat-square&logo=googlecloud&logoColor=C5D0DA"/>
+<img src="https://img.shields.io/badge/GOOGLE_AI_ESSENTIALS-263440?style=flat-square&logo=google&logoColor=C5D0DA"/>
+<img src="https://img.shields.io/badge/GOOGLE_PROMPTING_ESSENTIALS-263440?style=flat-square&logo=google&logoColor=C5D0DA"/>
+<img src="https://img.shields.io/badge/ANTHROPIC_AI_FLUENCY-263440?style=flat-square&logo=anthropic&logoColor=C5D0DA"/>
+<img src="https://img.shields.io/badge/MCKINSEY_FORWARD-263440?style=flat-square&logoColor=C5D0DA"/>
+<img src="https://img.shields.io/badge/DELOITTE_CYBER_SIMULATION-263440?style=flat-square&logoColor=C5D0DA"/>
 
 </div>
 
 ---
 
-## 08 / CONNECT
+## 08 / GITHUB ANALYTICS
+
+<div align="center">
+
+<!-- GITHUB STATS -->
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=bhagya0007&show_icons=true&hide_border=true&bg_color=111820&title_color=C5D0DA&icon_color=91A9BC&text_color=B8C4CF&rank_icon=github&include_all_commits=true"/>
+
+<!-- STREAK STATS -->
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=bhagya0007&hide_border=true&background=111820&ring=91A9BC&fire=C5D0DA&currStreakLabel=C5D0DA&sideLabels=B8C4CF&dates=8998A6"/>
+
+<br/><br/>
+
+<!-- CONTRIBUTION GRAPH -->
+
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=bhagya0007&bg_color=111820&color=B8C4CF&line=7890A5&point=E7EDF2&area=true&hide_border=true&custom_title=CONTRIBUTION%20HISTORY"/>
+
+<br/>
+
+<!-- TOP LANGUAGES -->
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhagya0007&layout=compact&hide_border=true&bg_color=111820&title_color=C5D0DA&text_color=B8C4CF"/>
+
+</div>
+
+---
+
+## 09 / LET'S CONNECT
 
 <div align="center">
 
 ### Let's build something meaningful.
 
-I am interested in opportunities, collaborations, and discussions around Artificial Intelligence, Machine Learning, Data Science, and Software Engineering.
+Interested in Artificial Intelligence, Machine Learning, Data Science, and impactful software engineering projects.
+
+Open to learning opportunities, collaborations, and meaningful technical discussions.
 
 <br/>
 
@@ -352,6 +435,10 @@ I am interested in opportunities, collaborations, and discussions around Artific
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:293B4B,100:111820"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:34495A,100:101820"/>
 
 </div>
+
+<!-- ========================================================= -->
+<!-- END OF PROFILE README                                     -->
+<!-- ========================================================= -->
