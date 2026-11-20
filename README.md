@@ -1,82 +1,206 @@
+
+<!-- ===================================================== -->
+<!--                  BHAGYA VARSHNEY                       -->
+<!--             PREMIUM GITHUB PROFILE                    -->
+<!-- ===================================================== -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7971E,100:FFD200&height=220&section=header&text=Bhagya%20Varshney&fontSize=48&fontColor=1A1A2E&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20Machine%20Learning%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0B1120&fontColor=67E8F9&text=Bhagya%20Varshney&fontSize=48&fontAlignY=38&desc=AI%20%7C%20Machine%20Learning%20%7C%20Software%20Development&descAlignY=60&descSize=16&animation=fadeIn"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=F7971E&center=true&vCenter=true&width=600&lines=B.Tech+CSE+(AI+%26+ML)+Undergraduate;Building+AI-Powered+Web+Applications;150%2B+Google+Cloud+Skill+Badges;Seeking+Data+Science+%26+ML+Opportunities" alt="Typing SVG" />
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=67E8F9&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Enthusiast;Building+Intelligent+Applications;Exploring+Data+Science+%26+Cloud+Technologies;Turning+Ideas+Into+Working+Products" alt="Typing animation"/>
+
+<br/><br/>
+
+<a href="https://www.bhagyavarshney.in/">
+<img src="https://img.shields.io/badge/Portfolio-0B1120?style=for-the-badge&logo=vercel&logoColor=67E8F9"/>
+</a>
+<a href="https://www.linkedin.com/in/bhagya-varshney-1a513833b">
+<img src="https://img.shields.io/badge/LinkedIn-0B1120?style=for-the-badge&logo=linkedin&logoColor=67E8F9"/>
+</a>
+<a href="mailto:bhagyavarshney07@gmail.com">
+<img src="https://img.shields.io/badge/Email-0B1120?style=for-the-badge&logo=gmail&logoColor=67E8F9"/>
+</a>
+<a href="https://github.com/bhagya0007">
+<img src="https://img.shields.io/badge/GitHub-0B1120?style=for-the-badge&logo=github&logoColor=67E8F9"/>
 </a>
 
-<p align="center">
-  <a href="mailto:bhagyavarshney07@gmail.com"><img src="https://img.shields.io/badge/Email-F7971E?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/bhagya-varshney-1a513833b"><img src="https://img.shields.io/badge/LinkedIn-FFD200?style=for-the-badge&logo=linkedin&logoColor=1A1A2E"/></a>
-  <a href="https://github.com/bhagya0007"><img src="https://img.shields.io/badge/GitHub-1A1A2E?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://bhagyavarshney.vercel.app"><img src="https://img.shields.io/badge/Portfolio-F7971E?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-</p>
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=bhagya0007&label=PROFILE%20VIEWS&color=0E7490&style=flat-square" />
 
 </div>
 
-## 👤 About Me
+---
+
+## ◈ ABOUT ME
+
+<img align="right" width="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhagya0007&layout=compact&hide_border=true&bg_color=0B1120&title_color=67E8F9&text_color=C9D1D9"/>
+
+I'm **Bhagya Varshney**, a Computer Science undergraduate specializing in Artificial Intelligence and Machine Learning at ABES Engineering College.
+
+I enjoy building intelligent applications, exploring machine learning algorithms, and developing practical solutions that combine software engineering with AI.
+
+- 🎓 B.Tech CSE (AI & ML) | 2024–2028
+- 🤖 Interested in Machine Learning & Data Science
+- ☁️ Exploring Google Cloud and AI infrastructure
+- 💻 Building full-stack and AI-powered applications
+- 🏆 2-time hackathon second-position achiever
+- 📚 Continuously learning and experimenting with new technologies
+
+<br clear="right"/>
+
+---
+
+## ◈ TECHNICAL EXPERTISE
 
 <div align="center">
 
-*"Engineering solutions at the intersection of AI, machine learning, and the cloud."*
+**PROGRAMMING LANGUAGES**
+
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css&theme=dark"/>
+
+<br/><br/>
+
+**AI / MACHINE LEARNING / DATA SCIENCE**
+
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn&theme=dark"/>
+<img src="https://img.shields.io/badge/Pandas-0B1120?style=for-the-badge&logo=pandas&logoColor=67E8F9"/>
+<img src="https://img.shields.io/badge/NumPy-0B1120?style=for-the-badge&logo=numpy&logoColor=67E8F9"/>
+
+<br/><br/>
+
+**WEB DEVELOPMENT & DATABASES**
+
+<img src="https://skillicons.dev/icons?i=react,fastapi,firebase,mysql,mongodb,tailwind&theme=dark"/>
+
+<br/><br/>
+
+**CLOUD & DEVELOPER TOOLS**
+
+<img src="https://skillicons.dev/icons?i=gcp,docker,git,github,vscode,figma&theme=dark"/>
 
 </div>
 
-```ansi
-● ● ●                              bhagya@github ~ terminal
-──────────────────────────────────────────────────────────────
+---
 
-> who am i
-Bhagya Varshney — AI · ML ·  Full Stack Developer
-📍 Uttar Pradesh, India · ABES Engineering College · 2028
-
-> cat interests.txt
-◈ Machine Learning & Data Science
-◈ AI-Powered Full-Stack Applications
-◈ Cloud-Native ML Pipelines (GCP)
-◈ Data Preprocessing & Feature Engineering
-
-> skills --languages
-Python      ████████████████████░░  Advanced
-C++         ████████████████░░░░░░  Proficient
-SQL         ████████████████░░░░░░  Proficient
-
-> status
-✦ Open to Data Science & Machine Learning & Web development opportunities
-```
+## ◈ FEATURED PROJECTS
 
 <table width="100%">
 <tr>
-<td width="34%" valign="top">
+<td width="50%" valign="top">
 
-### 🎓 Education
-**B.Tech, CSE (AI & ML)**
-ABES Engineering College
-`2024 – 2028` · CGPA: 8.0/10
+### 💠 Expenso
 
-**CBSE Class XII**
-G.K Silver Stone Sr. Sec. School
-`2024` · 83%
+**AI-Powered Expense Tracker**
+
+An intelligent personal finance application designed to simplify expense management and financial tracking.
+
+- Expense categorization and budgeting
+- Interactive analytics and visual reports
+- AI-powered financial insights
+- Secure authentication and cloud database
+
+**Tech:** React, TypeScript, Firebase, Firestore
+
+<a href="https://expenso-expense-tracker-website.vercel.app/">
+<img src="https://img.shields.io/badge/Live%20Project-0E7490?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
+
+### 💠 CivicFix
+
+**AI-Based Civic Complaint Management**
+
+An AI-driven approach to improving urban complaint management and public service delivery.
+
+- NLP-based complaint classification
+- Image-based civic issue identification
+- Duplicate complaint detection
+- Priority prediction and department routing
+
+**Tech:** AI/ML, NLP, Computer Vision, Geospatial Analysis
+
+<a href="https://github.com/2006-Arehan/CivicFix">
+<img src="https://img.shields.io/badge/Project%20Repository-0E7490?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 💠 Study Group Finder
+
+**Collaborative Learning Platform**
+
+A platform that connects students through common subjects, academic interests, and learning preferences.
+
+- Subject-based student matching
+- User authentication
+- Group management and chat
+- Academic resource sharing
+
+**Tech:** React, FastAPI, Python, MySQL
+
+</td>
+<td width="50%" valign="top">
+
+### 💠 RAG Teaching Assistant
+
+**Retrieval-Augmented Learning Assistant**
+
+A project exploring document-based question answering using Retrieval-Augmented Generation.
+
+- Context-aware question answering
+- Retrieval-based information access
+- Educational assistance through AI
+
+**Tech:** Python, RAG, LLMs
+
+<a href="https://github.com/bhagya0007/Rag-based-teaching-assistant">
+<img src="https://img.shields.io/badge/Repository-0E7490?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## ◈ EXPERIENCE & ACHIEVEMENTS
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 💼 Experience
+
+**Machine Learning Intern**
+
+FlyRank AI
+
+`July 2026 – September 2026`
+
+- Data preprocessing and feature engineering
+- ML model development and evaluation
+- Working with Python, Pandas, NumPy and Scikit-learn
+
+</td>
+<td width="50%" valign="top">
 
 ### 🏆 Achievements
-🥈 2nd — Cognitive Chaos Hackathon
-🥈 2nd — Retina AI Dropout Prediction
-🎖️ HP-PowerLabs 2.0 — Appreciation
-♟️ 2★ CodeChef Rating
 
-</td>
-<td width="33%" valign="top">
-
-### 📜 Certifications
-☁️ Google Cloud — 150+ Badges
-🤖 Google AI Essentials
-💬 Google Prompting Essentials
-🧠 Anthropic AI Fluency
-📈 McKinsey.org Forward Program
+- 🥈 2nd Position — Cognitive Chaos 2026
+- 🥈 2nd Position — Retina AI Hackathon
+- 🎖️ HP-PowerLabs 2.0 — Appreciation
+- ♟️ CodeChef — 2★ Rating
+- ☁️ 150+ Google Cloud Skill Badges
 
 </td>
 </tr>
@@ -84,135 +208,58 @@ G.K Silver Stone Sr. Sec. School
 
 ---
 
-## 🛠️ Tech Stack
-
-<!-- <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,react,fastapi,mongodb,mysql,git,github,vscode,gcp,figma&theme=dark&perline=8" />
-</p> -->
+## ◈ CERTIFICATIONS & LEARNING
 
 <div align="center">
 
-**Languages**
-<br/>
-<img src="https://img.shields.io/badge/Python-F7971E?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-F7971E?style=flat-square&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-F7971E?style=flat-square&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-F7971E?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7971E?style=flat-square&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-F7971E?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-F7971E?style=flat-square&logo=css3&logoColor=white"/>
-
-**ML & Data**
-<br/>
-<img src="https://img.shields.io/badge/Scikit--learn-FFD200?style=flat-square&logo=scikitlearn&logoColor=1A1A2E"/>
-<img src="https://img.shields.io/badge/TensorFlow-FFD200?style=flat-square&logo=tensorflow&logoColor=1A1A2E"/>
-<img src="https://img.shields.io/badge/Pandas-FFD200?style=flat-square&logo=pandas&logoColor=1A1A2E"/>
-<img src="https://img.shields.io/badge/NumPy-FFD200?style=flat-square&logo=numpy&logoColor=1A1A2E"/>
-
-**Web & Backend**
-<br/>
-<img src="https://img.shields.io/badge/React-1A1A2E?style=flat-square&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/FastAPI-1A1A2E?style=flat-square&logo=fastapi&logoColor=009688"/>
-<img src="https://img.shields.io/badge/MongoDB-1A1A2E?style=flat-square&logo=mongodb&logoColor=47A248"/>
-<img src="https://img.shields.io/badge/REST%20APIs-1A1A2E?style=flat-square&logo=fastapi&logoColor=F7971E"/>
-
-**Cloud & Tools**
-<br/>
-<img src="https://img.shields.io/badge/BigQuery-F7971E?style=flat-square&logo=googlebigquery&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vertex%20AI-F7971E?style=flat-square&logo=googlecloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/GKE-F7971E?style=flat-square&logo=googlecloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/Terraform-F7971E?style=flat-square&logo=terraform&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F7971E?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20BI-F7971E?style=flat-square&logo=powerbi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Cloud-0B1120?style=flat-square&logo=googlecloud&logoColor=67E8F9"/>
+<img src="https://img.shields.io/badge/Google%20AI%20Essentials-0B1120?style=flat-square&logo=google&logoColor=67E8F9"/>
+<img src="https://img.shields.io/badge/Anthropic%20AI%20Fluency-0B1120?style=flat-square&logo=anthropic&logoColor=67E8F9"/>
+<img src="https://img.shields.io/badge/Google%20Prompting%20Essentials-0B1120?style=flat-square&logo=google&logoColor=67E8F9"/>
+<img src="https://img.shields.io/badge/McKinsey%20Forward-0B1120?style=flat-square&logoColor=67E8F9"/>
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-<h3>💰 Expenso — AI Expense Tracker</h3>
-
-<img src="https://img.shields.io/badge/React%2019-1A1A2E?style=flat-square&logo=react&logoColor=F7971E"/> <img src="https://img.shields.io/badge/TypeScript-1A1A2E?style=flat-square&logo=typescript&logoColor=F7971E"/> <img src="https://img.shields.io/badge/Vite-1A1A2E?style=flat-square&logo=vite&logoColor=F7971E"/> <img src="https://img.shields.io/badge/Supabase-1A1A2E?style=flat-square&logo=supabase&logoColor=F7971E"/>
-
-- AI-powered expense tracker with budgeting & real-time analytics
-- AI statement parser with **95%+ accuracy**
-- Automated categorization & spending insights with secure auth
-
-<a href="https://github.com/bhagya0007"><img src="https://img.shields.io/badge/View%20Repo-F7971E?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-</td>
-<td width="50%" valign="top">
-
-<h3>📚 Study Group Finder</h3>
-
-<img src="https://img.shields.io/badge/React.js-1A1A2E?style=flat-square&logo=react&logoColor=F7971E"/> <img src="https://img.shields.io/badge/FastAPI-1A1A2E?style=flat-square&logo=fastapi&logoColor=F7971E"/> <img src="https://img.shields.io/badge/Python-1A1A2E?style=flat-square&logo=python&logoColor=F7971E"/> <img src="https://img.shields.io/badge/MySQL-1A1A2E?style=flat-square&logo=mysql&logoColor=F7971E"/>
-
-- Full-stack platform for students to connect via shared academic interests
-- Subject/preference-based matching, auth, real-time chat
-- Responsive UI with dark mode & resource sharing
-
-<a href="https://github.com/bhagya0007"><img src="https://img.shields.io/badge/View%20Repo-F7971E?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-</td>
-</tr>
-</table>
-
----
-
-
-<!-- <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=bhagya0007&show_icons=true&theme=radical&hide_border=true&bg_color=1A1A2E&title_color=F7971E&icon_color=FFD200&text_color=eeeeee"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhagya0007&layout=compact&theme=radical&hide_border=true&bg_color=1A1A2E&title_color=F7971E&text_color=eeeeee"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhagya0007&theme=radical&hide_border=true&background=1A1A2E&ring=F7971E&fire=FFD200&currStreakLabel=FFD200"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhagya0007&theme=react-dark&hide_border=true&bg_color=1A1A2E&color=FFD200&line=F7971E&point=ffffff"/>
-</p> -->
-
-
+## ◈ GITHUB ANALYTICS
 
 <div align="center">
 
-## 📫 Let's Connect
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=bhagya0007&show_icons=true&hide_border=true&bg_color=0B1120&title_color=67E8F9&icon_color=5EEAD4&text_color=C9D1D9&rank_icon=github"/>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:F7971E,100:FFD200&height=3&section=header&width=100%" width="60%"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=bhagya0007&hide_border=true&background=0B1120&ring=67E8F9&fire=5EEAD4&currStreakLabel=67E8F9&sideLabels=C9D1D9&dates=94A3B8"/>
 
-**Open to Data Science & Machine Learning roles — always happy to talk AI, ML, or a good hackathon.**
+<br/><br/>
 
-<table>
-<tr>
-<td align="center" width="33%">
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=bhagya0007&bg_color=0B1120&color=67E8F9&line=5EEAD4&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity"/>
+
+</div>
+
+---
+
+## ◈ LET'S CONNECT
+
+<div align="center">
+
+### Building. Learning. Experimenting. Growing.
+
+Interested in AI, Machine Learning, Data Science, and meaningful software projects.
+
+Let's connect and build something impactful.
+
+<br/>
+
 <a href="mailto:bhagyavarshney07@gmail.com">
-<img src="https://img.icons8.com/fluency/48/gmail-new.png" width="45"/><br/>
-<sub><b>Email</b></sub>
+<img src="https://img.shields.io/badge/Let's%20Talk-0E7490?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-</td>
-<td align="center" width="33%">
+
 <a href="https://www.linkedin.com/in/bhagya-varshney-1a513833b">
-<img src="https://img.icons8.com/fluency/48/linkedin.png" width="45"/><br/>
-<sub><b>LinkedIn</b></sub>
+<img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0B1120?style=for-the-badge&logo=linkedin&logoColor=67E8F9"/>
 </a>
-</td>
-<td align="center" width="33%">
-<a href="https://bhagyavarshney.vercel.app">
-<img src="https://img.icons8.com/fluency/48/domain.png" width="45"/><br/>
-<sub><b>Portfolio</b></sub>
-</a>
-</td>
-</tr>
-</table>
 
-<img src="https://komarev.com/ghpvc/?username=bhagya0007&color=F7971E&style=for-the-badge&label=PROFILE+VIEWS"/>
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD200,100:F7971E&height=100&section=footer" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0B1120,100:0E7490"/>
 
 </div>
